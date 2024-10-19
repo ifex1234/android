@@ -33,7 +33,7 @@ export function NavMenu() {
         <Dropdown />
         <Dropdown />
       </div>
-      <div className="w-1/4 flex flex-row items-center justify-around">
+      <div className="w-1/4 flex flex-row items-center justify-around gap-5">
         <FaSearch size={25} />
         <Button className="w-56 h-14 text-xl font-semibold rounded-3xl gap-5">
           Shop Phone <FaArrowRight color="#63a105" size={30} />
